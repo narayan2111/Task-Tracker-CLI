@@ -42,4 +42,4 @@ status: The status of the task (todo, in-progress, done)
 createdAt: The date and time when the task was created
 updatedAt: The date and time when the task was last updated
 
-## Project-Link : https://github.com/narayan2111/Task-Tracker-CLI.git
+## Project-Link : https://narayan2111.github.io/Task-Tracker-CLI/
